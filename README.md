@@ -39,8 +39,6 @@ author: Hannoch
 
 · https://github.com/michenriksen/aquatone(强大的子域工具和域收购查找工具)
 
-· https://github.com/evilsocket/dnssearch(子域枚举工具)
-
 · https://github.com/reconned/domained(用于bug搜索的子域枚举工具)
 
 · https://github.com/bit4woo/Teemo(域名和电子邮件地址收集工具)
