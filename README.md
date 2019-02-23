@@ -178,6 +178,7 @@ author: Hannoch
 · https://github.com/MiSecurity/x-patrol(GitHub泄密巡逻)
 
 · https://github.com/1N3/BlackWidow(在目标网站上收集OSINT和Fuzz的OWASP漏洞)
+· https://github.com/WyAtu/Perun(Perun是一款主要适用于乙方安服、渗透测试人员和甲方RedTeam红队人员的网络资产漏洞扫描器/扫描框架)
 
 # 七、webshell检测或恶意软件分析工具
 
