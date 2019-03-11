@@ -87,8 +87,6 @@ author: Hannoch
 
 · https://github.com/ron190/jsql-injection(用于从远程服务器查找数据库信息的轻量级应用程序)
 
-· https://github.com/Hadesy2k/sqliv(大规模sql注入漏洞扫描器)
-
 · https://github.com/UltimateHackers/sqlmate(sqlmap的一个朋友，它将做您一直期望的sqlmap)
 
 · https://github.com/m8r0wn/enumdb(MySQL和MSSQL蛮力和开发后工具)
