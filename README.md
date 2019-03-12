@@ -57,6 +57,7 @@ author: Hannoch
 
 · https://github.com/infosec-au/altdns(通过修改和排列发现子域)
 
+· https://github.com/aprilahijriyan/w3brute(w3brute是一个开源渗透测试工具，可以直接自动攻击网站的登录页面。 w3brute也支持对所有网站进行暴力攻击。)
 # 二、数据库漏洞扫描器或枚举工具
 
 · https://github.com/0xbug/SQLiScanner(通过sqlmap和charles进行的一个基于漏洞的漏洞扫描)
