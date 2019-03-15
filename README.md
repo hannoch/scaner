@@ -57,6 +57,8 @@ author: Hannoch
 
 · https://github.com/infosec-au/altdns(通过修改和排列发现子域)
 
+· https://github.com/boy-hack/w8fuckcdn(通过扫描全网绕过CDN获取网站IP地址)
+
 · https://github.com/netxfly/passive_scan(基于http代理的web漏洞扫描器的实现)
 
 · https://github.com/githubmaidou/tools(Python渗透漏洞工具收集)
